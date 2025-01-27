@@ -38,14 +38,14 @@ El cronograma completo (de la materia y del trabajo de cada grupo) podrán consu
 
 Esta es la lista de guías experimentales con las que trabajaremos en el curso:
 
-* Difusividad térmica
-* Resistividad eléctrica
-* Piezoelectricidad
-* Ferromagnetismo
-* Vacío y transferencia de calor
-* Efecto Peltier y medición de temperatura
-* Módulo de Young vía método estático
-* Módulo de Young vía método dinámico
+* [Difusividad térmica](Practicas/Difusividad)
+* [Resistividad eléctrica](Practicas/Resistividad)
+* [Piezoelectricidad](Practicas/Piezoelectricidad)
+* [Ferromagnetismo](Practicas/Ferromagnetismo)
+* [Vacío y transferencia de calor](Practicas/Vacio-TransferenciaCalor)
+* [Efecto Peltier y medición de temperatura](Practicas/Peltier-Temperatura)
+* [Módulo de Young vía método estático](Practicas/Young-Estatico_y_Dinamico)
+* [Módulo de Young vía método dinámico](Practicas/Young-Estatico_y_Dinamico)
 
 El material básico asociado a cada guía lo encontrarán en las subcarpetas asociadas, haciendo click en los títulos.
 
@@ -55,10 +55,10 @@ Aquí encontrarán las diapositivas que utilizaremos paulatinamente durante el c
 
 ### Clase 1 (27/01/2025)
 
-1. Presentación general de la materia
-1. Normas de seguridad para el trabajo en el laboratorio
-1. Sobre el cuaderno de laboratorio
-1. Actividades propuestas para la primera clase
+1. [Presentación general de la materia](Clases/Clase_1/1_Presentacion_general.pdf)
+1. [Normas de seguridad para el trabajo en el laboratorio](Clases/Clase_1/2_Normas_de_seguridad.pdf)
+1. [Sobre el cuaderno de laboratorio](Clases/Clase_1/3_Cuaderno_de_laboratorio.pdf)
+1. [Actividades propuestas para la primera clase](Clases/Clase_1/Actividades_propuestas_para_la_primera_clase.pdf)
 
 ## Bibliografía
 
