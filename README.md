@@ -60,6 +60,11 @@ Aquí encontrarán las diapositivas que utilizaremos paulatinamente durante el c
 1. [Sobre el cuaderno de laboratorio](Clases/Clase_1/3_Cuaderno_de_laboratorio.pdf)
 1. [Actividades propuestas para la primera clase](Clases/Clase_1/Actividades_propuestas_para_la_primera_clase.pdf)
 
+### Clase 2 (30/01/2025)
+
+1. [Capítulos 2 (Physical Quantities) y 3 (Measurement Units)](Clases/Clase_2/Capitulos_1_y_2.pdf)
+1. [Amplificador lock-in y detección homodina](Clases/Clase_2/Amplificador_lock-in.pdf)
+
 ## Bibliografía
 
 La bibliografía de referencia para la materia, más allá de aquello asociado a cada práctica individual (que tiene su propia bibliografía especifica) es la siguiente:
