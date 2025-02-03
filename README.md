@@ -65,6 +65,10 @@ Aquí encontrarán las diapositivas que utilizaremos paulatinamente durante el c
 1. [Capítulos 2 (Physical Quantities) y 3 (Measurement Units)](Clases/Clase_2/Capitulos_1_y_2.pdf)
 1. [Amplificador lock-in y detección homodina](Clases/Clase_2/Amplificador_lock-in.pdf)
 
+### Clase 3 (3/02/2025)
+
+1. [Capítulo 3 (Measuring Instruments)](Clases/Clase_3/Capitulo_3.pdf)
+
 ## Bibliografía
 
 La bibliografía de referencia para la materia, más allá de aquello asociado a cada práctica individual (que tiene su propia bibliografía especifica) es la siguiente:
