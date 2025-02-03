@@ -96,7 +96,26 @@ Para la comunicación con instrumentos, encontrarán códigos Python [aquí](htt
 
 ## Google Classroom de la materia (único mecanismo para entregas de informes)
 
-Para las entregas de informes utilizaremos un Google Classroom; les daremos más información durante el curso, al momento de necesitar utilizarlo.
+Para las entregas de informes utilizaremos un Google Classroom; el detalle de cómo unirse al curso y de cómo realizar entregas lo encontrarán aquí debajo.
+
+### Cómo unirse a Laboratorio 4 en Google Classroom
+
+1. Ir a classroom.google.com 
+2. Loguearse a su cuenta (o sacar cuenta)
+3. Hacer click en "Join Class"
+4. Entrar el código de la clase (f66uw7f)
+5. Hacer click en "Join" 
+
+### Cómo hacer una entrega en el Google Classroom de la materia
+
+Recuerden que para poder realizar entregas deberán estar registrados en la pagina de Google Classroom de Laboratorio 4; si no lo están, sigan las instrucciones detalladas en la sección precedente. Noten también que no es necesario que los 3 integrantes de cada grupo estén registrados en Google Classroom; basta con que un(a) integrante lo esté para realizar la entrega en nombre del grupo.
+
+En este [video]() les mostramos en detalle cómo realizar una entrega en Google Classroom.
+
+### Links para las entregas
+
+* [Link para la entrega de P1 (primer informe)](https://classroom.google.com/c/Njg4MTE1MjcwNzQ0/a/Njg4MTE1Mjc4NDIw/details). Recuerden que esta primera entrega tiene fecha límite este jueves 6 de Febrero a las 23:59.
+
 
 ## Normas de seguridad
 
