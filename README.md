@@ -100,6 +100,11 @@ Para las entregas de informes utilizaremos un Google Classroom; el detalle de c�
 
 ### Cómo unirse a Laboratorio 4 en Google Classroom
 
+Tuvieron que haber recibido a su mail (el mail consignado en SIU Guarani) una invitación para "enrolarse" en la pagina de Google Classroom de la materia. En ese caso, basta con aceptar la invitación.
+
+Si la invitación no les funciona o no la recibieron, pueden seguir estos pasos simples
+para inscribirse manualmente:
+
 1. Ir a classroom.google.com 
 2. Loguearse a su cuenta (o sacar cuenta)
 3. Hacer click en "Join Class"
