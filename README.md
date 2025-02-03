@@ -100,7 +100,7 @@ Para las entregas de informes utilizaremos un Google Classroom; el detalle de c�
 
 ### C처mo unirse a Laboratorio 4 en Google Classroom
 
-Tuvieron que haber recibido a su mail (el mail consignado en SIU Guarani) una invitaci처n para "enrolarse" en la pagina de Google Classroom de la materia. En ese caso, basta con aceptar la invitaci처n.
+Tienen que haber recibido a su mail (el mail consignado en SIU Guarani) una invitaci처n para "enrolarse" en la pagina de Google Classroom de la materia. En ese caso, basta con aceptar la invitaci처n.
 
 Si la invitaci처n no les funciona o no la recibieron, pueden seguir estos pasos simples
 para inscribirse manualmente:
