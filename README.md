@@ -102,6 +102,23 @@ Aquí encontrarán las diapositivas que utilizaremos paulatinamente durante el c
 1. [Capítulo 11 (The Chi Square Test)](Clases/Clase_11/Capitulo_11.pdf)
 
 
+## Presentación final de la Práctica 3 en formato póster
+
+Próximamente publicaremos aquí material que servirá de guía para la preparación del poster.
+
+### Tarea adicional para la presentación final en formato póster
+
+Para el día de la presentación final les proponemos una actividad adicional. Les vamos a pedir que, 
+para la práctica 3 (que les haya tocado a cada grupo), traigan una estimación razonable (con una incerteza
+de 10 o 15%, digamos) del costo total en dinero involucrado en la realización de la guía. Ese costo deberá
+incluir el valor de todos los equipos involucrados (todos los que hayan usado para la realización de la práctica); 
+incluir el costo de los insumos (si utilizaron alguno) es optativo. 
+
+#### Qué sentido y/o valor tiene esta actividad adicional?
+
+Conocer el precio de los equipos (y sus insumos) es valioso no solo por la información en sí misma, sino porque entender el costo de los instrumentos que usamos es parte de la formación de cualquier científico. Saber cuánto valen nos ayuda a ser más responsables en su uso, pero también nos da una idea de cómo se financia la ciencia, cómo se toman decisiones en los laboratorios y qué implica diseñar un experimento en términos de recursos. En el futuro, si trabajan en investigación o en la industria, tendrán que justificar compras, optimizar presupuestos o buscar financiamiento. Por eso, más allá de aprender a usar estos equipos, también es útil pensar en su valor en un sentido más amplio. En su futuro profesional, ya sea en investigación, industria o innovación tecnológica, van a enfrentar estas preguntas. Conocer el orden de valores del precio de los equipos les da una idea de la inversión que requiere la ciencia y los ayuda a tomar decisiones más estratégicas: cómo planificar experimentos sin desperdiciar insumos, cómo presupuestar y justificar gastos en un proyecto y cómo optimizar el uso de la tecnología disponible.
+
+
 ## Bibliografía
 
 La bibliografía de referencia para la materia, más allá de aquello asociado a cada práctica individual (que tiene su propia bibliografía especifica) es la siguiente:
