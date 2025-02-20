@@ -69,6 +69,39 @@ Aquí encontrarán las diapositivas que utilizaremos paulatinamente durante el c
 
 1. [Capítulo 3 (Measuring Instruments)](Clases/Clase_3/Capitulo_3.pdf)
 
+### Clase 4 (6/2/2025)
+
+1. [Capítulo 4 (Uncertainty in Direct Measurements)](Clases/Clase_4/Capitulo_4.pdf)
+
+### Clase 5 (10/02/2025)
+
+1. [Capítulo 5 (Basic Probability Concepts)](Clases/Clase_5/Capitulo_5.pdf)
+
+### Clase 6 (13/02/2025)
+
+1. [Capítulo 6 (Distributions of random variables)](Clases/Clase_6/Capitulo_6.pdf)
+
+### Clase 7 (17/02/2025)
+
+1. [Capítulo 7 (Statistical Tools)](Clases/Clase_7/Capitulo_7.pdf)
+
+### Clase 8 (20/02/2025)
+
+1. [Capítulo 8 (Uncertainty in indirect measurements)](Clases/Clase_8/Capitulo_8.pdf)
+
+### Clase 9 (24/02/2025)
+
+1. [Capítulo 9 (Confidence Levels)](Clases/Clase_9/Capitulo_9.pdf)
+
+### Clase 10 (27/02/2025)
+
+1. [Capítulo 10 (Correlation of Physical Quantities)](Clases/Clase_10/Capitulo_10.pdf)
+
+### Clase 11 (6/03/2025)
+
+1. [Capítulo 11 (The Chi Square Test)](Clases/Clase_11/Capitulo_11.pdf)
+
+
 ## Bibliografía
 
 La bibliografía de referencia para la materia, más allá de aquello asociado a cada práctica individual (que tiene su propia bibliografía especifica) es la siguiente:
