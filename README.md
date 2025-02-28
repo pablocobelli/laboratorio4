@@ -106,6 +106,16 @@ Aquí encontrarán las diapositivas que utilizaremos paulatinamente durante el c
 
 Próximamente publicaremos aquí material que servirá de guía para la preparación del poster.
 
+### Tamaño físico del póster: 122 cm (altura) x 68 cm (ancho)
+
+Las dimensiones para el póster no son las más comunes debido a que no les vamos a pedir imprimirlo
+como habitualmente se hace (en cuyo caso se suele utilizar el formato A0 como estándar). Dado que el póster
+será presentado directamente desde la pantalla de una TV en orientación vertical (portrait), las dimensiones
+sugeridas para el póster son las particulares a dicha pantalla. En este caso, el tamaño del póster deberá 
+ser de 122 cm de altura y 68 cm de ancho, lo que arroja una relación de aspecto de 16:9, aproximadamente.
+
+
+
 ### Tarea adicional para la presentación final en formato póster
 
 Para el día de la presentación final les proponemos una actividad adicional. Les vamos a pedir que, 
