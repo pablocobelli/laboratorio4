@@ -104,7 +104,9 @@ Aquí encontrarán las diapositivas que utilizaremos paulatinamente durante el c
 
 ## Presentación final de la Práctica 3 en formato póster
 
-Próximamente publicaremos aquí material que servirá de guía para la preparación del poster.
+Les dejamos en [este link](Sobre_posters_cientificos.pdf) la presentación sobre posters científicos 
+que expusimos en clase. El PDF de la presentación tiene links a las fuentes que mencionamos durante 
+la presentación, que esperamos les resulten útiles para la preparación del póster.
 
 ### Tamaño físico del póster: 122 cm (altura) x 68 cm (ancho)
 
