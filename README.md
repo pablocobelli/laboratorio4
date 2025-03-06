@@ -108,6 +108,8 @@ Les dejamos en [este link](Sobre_posters_cientificos.pdf) la presentación sobre
 que expusimos en clase. El PDF de la presentación tiene links a las fuentes que mencionamos durante 
 la presentación, que esperamos les resulten útiles para la preparación del póster.
 
+Por otro lado, les paso [en este otro link](Logos_Exactas_Fisica.pdf) los logos actualizados de Exactas, para que puedan incluirlos en sus pósters.
+
 ### Tamaño físico del póster: 122 cm (altura) x 68 cm (ancho)
 
 Las dimensiones para el póster no son las más comunes debido a que no les vamos a pedir imprimirlo
