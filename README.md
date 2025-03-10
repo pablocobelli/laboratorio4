@@ -195,6 +195,14 @@ En este [video]() les mostramos en detalle cómo realizar una entrega en Google 
 
 * [Link para la entrega de P4 (cuarto informe)](https://classroom.google.com/w/Njg4MTE1MjcwNzQ0/tc/Njg4MTE1Mzc4NzYy). Esta cuarta entrega tiene fecha límite el 13 de Marzo a las 23:59.
 
+#### Entregas finales
+
+Les vamos a solicitar que nos envíen también sus cuadernos de laboratorio y el póster de la Práctica 3, en dos entregas por separado. Ambas entregas tienen fecha límite el próximo jueves 13 de Marzo a las 23h59. Para ello, les pedimos que los conviertan a formato PDF y los suban al Google Classroom de la materia, usando los siguientes links para cada entrega:
+
+* [Link para la entrega del Cuaderno de Laboratorio](https://classroom.google.com/u/1/w/Njg4MTE1MjcwNzQ0/tc/Njg5NTM5MTAxNzI3). Esta entrega tiene fecha límite el jueves 13 de Marzo a las 23h59.
+
+* [Link para la entrega del Póster](https://classroom.google.com/u/1/w/Njg4MTE1MjcwNzQ0/tc/Njg5NTM5NDY5NDg5). Esta entrega tiene fecha límite el jueves 13 de Marzo a las 23h59.
+
 ## Normas de seguridad
 
 Es obligatorio que todos los estudiantes y docentes conozcan y cumplan las normas oficiales de seguridad e higiene publicadas por el Servicio de Higiene y Seguridad en el Trabajo de la FCEyN.
