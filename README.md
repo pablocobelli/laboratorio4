@@ -118,7 +118,11 @@ será presentado directamente desde la pantalla de una TV en orientación vertic
 sugeridas para el póster son las particulares a dicha pantalla. En este caso, el tamaño del póster deberá 
 ser de 122 cm de altura y 68 cm de ancho, lo que arroja una relación de aspecto de 16:9, aproximadamente.
 
-
+Nota: en virtud de que el monitor original que iba a ser utilizado para exponer los posters no se encuentra
+disponible, vamos a trabajar de la siguiente forma. Quienes lo hayan hecho en formato vertical (como se sugería
+inicialmente), podrán exponerlo en ese formato. Quienes deseen construirlo en formato apaisado, también pueden. 
+En este último caso deberán usar un tamaño de 166 cm de ancho y 95 cm de altura, lo que da una relación de 
+aspecto de 1.74, muy similar a 16:9.
 
 ### Tarea adicional para la presentación final en formato póster
 
