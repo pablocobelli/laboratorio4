@@ -193,7 +193,7 @@ En este [video]() les mostramos en detalle cómo realizar una entrega en Google 
 
 * [Link para la entrega de P3 (tercer informe)](https://classroom.google.com/w/Njg4MTE1MjcwNzQ0/tc/Njg4MTE1MTMyNTEw). Esta tercer entrega tiene fecha límite el 27 de Febrero a las 23:59.
 
-* [Link para la entrega de P4 (cuarto informe)](https://classroom.google.com/w/Njg4MTE1MjcwNzQ0/tc/Njg4MTE1Mzc4NzYy). Esta cuarta entrega tiene fecha límite el 13 de Marzo a las 23:59.
+* [Link para la entrega de P4 (cuarto informe)](https://classroom.google.com/w/Njg4MTE1MjcwNzQ0/tc/Njg4MTE1Mzc4NzYy). Esta cuarta entrega tiene fecha  límite el viernes 14 de Marzo a las 23:59.
 
 #### Entregas finales
 
