@@ -124,6 +124,19 @@ inicialmente), podrán exponerlo en ese formato. Quienes deseen construirlo en f
 En este último caso deberán usar un tamaño de 166 cm de ancho y 95 cm de altura, lo que da una relación de 
 aspecto de 1.74, muy similar a 16:9.
 
+### Pósters presentados
+
+Aquí les dejamos links a los pósters que presentaron, en formato PDF.
+
+1. [Póster sobre Ferromagnetismo](Posters/G1.pdf)
+2. [Póster sobre Celda Peltier](Posters/G2.pdf)
+3. [Póster sobre Difusividad Térmica](Posters/G3.pdf)
+4. [Póster sobre Impedancia de un cable conductor](Posters/G4.pdf)
+5. [Póster sobre Efecto Piezoeléctrico](Posters/G5.pdf)
+6. [Póster sobre Elasticidad de materiales con ondas de flexión](Posters/G6.pdf)
+7. [Póster sobre Módulo de Young del acero 304](Posters/G7.pdf)
+8. [Póster sobre Transferencia de calor](Posters/G8.pdf)
+
 ### Tarea adicional para la presentación final en formato póster
 
 Para el día de la presentación final les proponemos una actividad adicional. Les vamos a pedir que, 
